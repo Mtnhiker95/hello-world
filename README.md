@@ -1,2 +1,2 @@
 # hello-world
-JAR
+Howdy... Checking out the GitHub hello-world tutorial.
